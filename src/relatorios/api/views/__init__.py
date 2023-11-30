@@ -1,0 +1,5 @@
+from .load_fato_meta_view import LoadFatoMetaView
+from .load_fato_venda_view import LoadFatoVendaView
+from .analise_mensal_equipe_vendas import AnaliseMensalEquipeVendasView
+from .analise_mensal_vendedor import AnaliseMensalVendedorView
+from .analise_mensal_produto import AnaliseMensalProdutoCodigoView

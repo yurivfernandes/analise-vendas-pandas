@@ -1,0 +1,2 @@
+from .upload_arquivos import UploadArquivosView
+from .available_tables import AvailableTablesView
