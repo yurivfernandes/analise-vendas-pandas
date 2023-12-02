@@ -3,3 +3,4 @@ from .produto import Produto
 from .vendedor import Vendedor
 from .meta import Meta
 from .venda import Venda
+from .calendar import Calendar

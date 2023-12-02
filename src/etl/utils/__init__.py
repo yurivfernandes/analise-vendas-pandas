@@ -1,1 +1,1 @@
-from .load_pipeline import LoadPipeline
+from .request_helpers import fetch_data_compound_request
