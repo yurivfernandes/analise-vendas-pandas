@@ -3,8 +3,6 @@ import pandas as pd
 from celery import shared_task
 from datetime import datetime
 from django.utils import timezone
-from drf_yasg import openapi
-from drf_yasg.utils import swagger_auto_schema
 from etl.models import Meta, Vendedor
 from etl.tasks import LoadLogView
 from ..models import FatoMeta
