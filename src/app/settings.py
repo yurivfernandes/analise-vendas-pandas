@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'corsheaders',
     'etl',
-    'relatorios'
+    'relatorios',
+    'recipes'
 ]
 
 MIDDLEWARE = [
